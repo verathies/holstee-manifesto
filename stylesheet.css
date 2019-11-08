@@ -1,0 +1,85 @@
+body {
+	background: lightgrey; 
+}
+p{
+	float: left; 
+	height: 150px; 
+	width: 150px; 	
+	margin: 0 0;
+	padding: 58px; 
+	
+}
+
+div {
+	overflow: auto; 
+}
+
+span {
+	font-style: italic; 
+	font-size: 18px; 
+	font-weight: bold; 
+}
+
+#quote1 {
+	background: #85152b;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 23px; 
+	line-height: 20px; 
+	text-align: center; 
+}
+
+#quote2 {
+	background: #eacfc4;
+	font-family: 'Rokkitt', serif;
+	font-size: 20px; 
+}
+
+#quote3{
+	background: #85152b; 
+	font-size: 25px; 
+	font-family: 'Rokkitt', serif;
+}
+
+#quote4 {
+	background: #cac7c1;
+	font-family: 'Rokkitt', serif;
+	font-size: 20px; 
+}
+
+#quote5 {
+	background: #eacfc4; 
+	font-family: 'Rokkitt', serif;
+	font-size: 20px; 
+}
+
+#quote6 {
+	background: #f3f3f5;
+	font-family: 'Rokkitt', serif;
+	font-size: 20px; 
+}
+
+#quote7 {
+	background: #cac7c1; 
+	font-family: 'Rokkitt', serif;
+	font-size: 20px; 
+}
+
+#quote8 {
+	background: #85152b; 
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 24px; 
+	line-height: 24px; 
+	text-align: center; 
+}
+
+#quote9 {
+	background: #f3f3f5; 
+	font-family: 'Rokkitt', serif;
+	font-size: 20px; 
+}
+
+#quote10 {
+	background: #85152b;
+	font-family: 'Rokkitt', serif;
+	font-size: 25px; 
+}
